@@ -1,5 +1,5 @@
-[
-    {
+ {
+    "agents" : [{
         "id":1,
         "hostname": "apset1.test.com",
         "username": "cftadmin",        
@@ -14,5 +14,5 @@
         "state": "ACTIVE",
         "port": 1766,
         "heartBeatDate": "2017-05-11 10:10:01"
-    }
-]
+    }]
+}

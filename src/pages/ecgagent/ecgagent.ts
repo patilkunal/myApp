@@ -27,6 +27,7 @@ export class Ecgagent {
   }
 
   ionViewDidLoad() {
+    //This is called everytime view is loaded
     console.log('ionViewDidLoad Ecgagent');
   }
 
