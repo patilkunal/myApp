@@ -14,5 +14,36 @@
         "state": "ACTIVE",
         "port": 1766,
         "heartBeatDate": "2017-05-11 10:10:01"
+    }],
+    "sendtemplates" : [
+        {
+            "id" : 1,
+            "agentId" : 1,
+            "templateName" : "Send Template 1"
+        },
+        {
+            "id" : 2,
+            "agentId" : 1,
+            "templateName" : "Send Template 2"
+        },
+        {
+            "id" : 3,
+            "agentId" : 2,
+            "templateName" : "Send Template 21"
+        },
+        {
+            "id" : 4,
+            "agentId" : 2,
+            "templateName" : "Send Template 22"
+        }
+    ],
+    "receivetemplates" : [{
+        "id" : 1,
+        "agentId": 1,
+        "templateName": "Receive Templates 1"
+    },{
+        "id" : 2,
+        "agentId": 1,
+        "templateName": "Receive Templates 2"        
     }]
 }
